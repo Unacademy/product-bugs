@@ -12,17 +12,17 @@ You'll need a Github account to report issues and bugs.
 
 In order to fix a bug, we have to be able to reproduce the error or problem you've encountered.
 
-Therefore, please follow the example format below.
+# Therefore, please follow the example format below.
 
 ##### BASIC INFORMATION:
 ```
-Operating System: Windows XP
+Operating System: MacOS
 Browser         : Chrome
-Version #       : 2.4.3*
-Optional Info** : I was using a netbook with a maximum native resolution of 1024x768
+Version         : 2.4.3*
+Optional Info   : I was using 2017 Macbook Pro
 
-* Version # is at the bottom of settings screens in the Apps, ignore for web
-** Optional info is just anything else you think might be important
+Version # is at the bottom of settings screens in the Apps, ignore for web
+Optional info is just anything else you think might be important
 ```
 
 * This information lets us know which build/version of the app has a problem *
